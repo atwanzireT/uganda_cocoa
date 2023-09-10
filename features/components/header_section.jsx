@@ -1,42 +1,39 @@
 // components/Header.js
 import Link from 'next/link';
-import React from 'react';
+import { useState } from 'react'; // Import useState from React
 
+export default function Header_section() {
+  const [isNavOpen, setNavOpen] = useState(false); // Create a state variable for the navigation menu
 
-export default function Header_section(){
+  // Function to toggle the navigation menu
+  const toggleNav = () => {
+    setNavOpen(!isNavOpen);
+  };
+
   return (
-    <div id="site-header" style={{backgroundColor:"#052e16"}} className="fixed-top">
+    <div id="site-header mt-3" style={{ backgroundColor: "#052e16" }} className="fixed-top">
       <div className="container">
-        <nav className="navbar navbar-expand-lg navbar-light stroke">
+        <nav className="navbar navbar-expand-lg ">
           <h1>
             <Link className="navbar-brand" href="/">
               EZRA BR <span className="sub-color">AGENCY</span>
             </Link>
           </h1>
           <button
-            className="navbar-toggler collapsed"
+            className={`navbar-toggler ${isNavOpen ? '' : 'collapsed'}`} // Add a dynamic class based on the state
             type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarScroll"
-            aria-controls="navbarScroll"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+            onClick={toggleNav} // Add onClick event to call the toggleNav function
           >
             <span className="navbar-toggler-icon fa icon-expand fa-bars"></span>
             <span className="navbar-toggler-icon fa icon-close fa-times"></span>
           </button>
-          <div className="collapse navbar-collapse" id="navbarScroll">
-            <ul className="navbar-nav mx-lg-auto my-2 my-lg-0 navbar-nav-scroll">
+          <div className={`collapse navbar-collapse ${isNavOpen ? 'show' : ''}`}style={{ backgroundColor: "#052e16" }}  id="navbarScroll"> {/* Use the show class based on the state */}
+            <ul className="navbar-nav mx-lg-auto my-0 my-lg-0">
               <li className="nav-item">
                 <Link className="nav-link active" aria-current="page" href="/">
                   Home
                 </Link>
               </li>
-              {/* <li className="nav-item">
-                <Link className="nav-link" href="/about/">
-                  About
-                </Link>
-              </li> */}
               <li className="nav-item">
                 <Link className="nav-link" href="/services/">
                   Services
@@ -48,35 +45,9 @@ export default function Header_section(){
                 </Link>
               </li>
             </ul>
-            {/* <form action="#" method="GET" className="d-flex search-header">
-              <input
-                className="form-control me-2"
-                type="search"
-                placeholder="Search here..."
-                aria-label="Search"
-                required
-              />
-              <button className="btn btn-style btn-secondary me-lg-3" type="submit">
-                Search
-              </button>
-            </form> */}
           </div>
-          {/* <div className="mobile-position">
-            <nav className="navigation">
-              <div className="theme-switch-wrapper">
-                <label className="theme-switch" htmlFor="checkbox">
-                  <input type="checkbox" id="checkbox" />
-                  <div className="mode-container">
-                    <i className="gg-sun"></i>
-                    <i className="gg-moon"></i>
-                  </div>
-                </label>
-              </div>
-            </nav>
-          </div> */}
         </nav>
       </div>
     </div>
   );
-};
-
+}

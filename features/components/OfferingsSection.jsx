@@ -35,7 +35,7 @@ const OfferingsSection = () => {
           <div className="col-lg-4 col-md-6 mt-5">
             <div className="grids3-info">
               <Link href="#service" className="d-block zoom">
-                <Image src={img7} alt="" className="img-fluid radius-image" />
+                <Image src={img8} alt="" className="img-fluid radius-image" />
               </Link>
               <div className="grids-of-3-saas-info">
                 <h5>
@@ -53,7 +53,7 @@ const OfferingsSection = () => {
           <div className="col-lg-4 col-md-6 mt-5">
             <div className="grids3-info">
               <Link href="#service" className="d-block zoom">
-                <Image src={img8} alt="" className="img-fluid radius-image" />
+                <Image src={img7} alt="" className="img-fluid radius-image" />
               </Link>
               <div className="grids-of-3-saas-info">
                 <h5>

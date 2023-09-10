@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="w3l-footer-text-style">
             <div className="footer-list-cont d-sm-flex align-items-center justify-content-between mb-5">
               <h2 className="w3logo">
-                <Link className="navbar-brand" href="index.html">
+                <Link className="navbar-brand" href="/">
                   EZRA BR <span className="sub-color">AGENCY</span>
                 </Link>
               </h2>
