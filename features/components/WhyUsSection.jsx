@@ -15,12 +15,12 @@ const WhyUsSection = () => {
             <h6 className="title-subw3hny">Why Us</h6>
             <h3 className="title-w3l mb-4">Growing Healthy Food</h3>
             <p className="mb-5">
-              Working with ImpexKakao offers a unique opportunity to engage in a sustainable and
+              Working with Ezra BR Agency Limited offers a unique opportunity to engage in a sustainable and
               impactful cocoa trade partnership. With a strong presence in Uganda's Bundibugyo District,
-              ImpexKakao is dedicated to sourcing high-quality cocoa beans directly from over
+              Ezra BR Agency Limited is dedicated to sourcing high-quality cocoa beans directly from over
               5,000 local farmers and farmer cooperatives, ensuring they receive fair prices. Their
               commitment to sustainable practices, quality control, and community development sets them
-              apart as a reliable and ethical partner. By collaborating with ImpexKakao, you can be part
+              apart as a reliable and ethical partner. By collaborating with Ezra BR Agency Limited, you can be part
               of a venture that not only supports premium cocoa production but also contributes to the
               economic prosperity and resilience of farming communities, making a positive impact on
               both business and society.
@@ -44,7 +44,9 @@ const WhyUsSection = () => {
                   </div>
                   <div className="progress-right">
                     <h4>Quality Control</h4>
-                    <p className="mb-lg-5">This quality control process ensures that only good-quality cocoa beans are selected for further processing and export.</p>
+                    <p className="mb-lg-5">
+                      This quality control process ensures that only good-quality cocoa beans are selected 
+                      for further processing and export.</p>
                   </div>
                 </div>
               </div>
@@ -66,7 +68,11 @@ const WhyUsSection = () => {
                   </div>
                   <div className="progress-right">
                     <h4>Quality Agriculture</h4>
-                    <p className="mb-lg-5">The company engages with over 5,000 farmers, families, and communities in the Bundibugyo District, which indicates its commitment to community development and empowerment.</p>
+                    <p className="mb-lg-5">
+                      The company engages with over 5,000 farmers, families, and communities in the
+                      Bundibugyo District, which indicates its commitment to community development
+                      and empowerment.
+                    </p>
                   </div>
                 </div>
               </div>
