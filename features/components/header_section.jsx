@@ -9,9 +9,9 @@ export default function Header_section(){
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light stroke">
           <h1>
-            <a className="navbar-brand" href="index.html">
+            <Link className="navbar-brand" href="/">
               EZRA BR <span className="sub-color">AGENCY</span>
-            </a>
+            </Link>
           </h1>
           <button
             className="navbar-toggler collapsed"
@@ -43,9 +43,9 @@ export default function Header_section(){
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/contact/">
+                <Link className="nav-link" href="/contact/">
                   Contact
-                </a>
+                </Link>
               </li>
             </ul>
             {/* <form action="#" method="GET" className="d-flex search-header">

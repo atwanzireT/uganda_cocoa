@@ -32,7 +32,7 @@ const ContentSection = () => {
                   </div>
                 </div>
                 <div className="col-10 content4-right-info ps-lg-5">
-                  <h6><Link href="#url">Sustainable Trade Services</Link></h6>
+                  <h6><Link style={{}} href="#url">Sustainable Trade Services</Link></h6>
                   <p>Ezra BR Agency Limited offers sustainable trade services by directly engaging with
                     farmers, farmer cooperatives, and communities to ensure fair and stable prices for
                     their cocoa beans. This service includes training, quality control, and support to

@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Link from 'next/link';
 const Services_banner = () => {
   return (
     <div className="inner-banner py-5">
@@ -13,7 +13,7 @@ const Services_banner = () => {
             <div className="w3breadcrumb-right">
               <ul className="breadcrumbs-custom-path">
                 <li>
-                  <a href="/">Home</a>
+                  <Link href="/">Home</Link>
                 </li>
                 <li className="active">
                   <span className="fas fa-angle-double-right mx-2"></span> Services
