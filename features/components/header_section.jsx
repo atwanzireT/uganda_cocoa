@@ -30,13 +30,18 @@ export default function Header_section() {
           <div className={`collapse navbar-collapse ${isNavOpen ? 'show' : ''}`}style={{ backgroundColor: "#052e16" }}  id="navbarScroll"> {/* Use the show class based on the state */}
             <ul className="navbar-nav mx-lg-auto my-0 my-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" href="/">
+                <Link className="nav-link" aria-current="page" href="/">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" href="/services/">
                   Services
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" href="/impact/">
+                  Impact
                 </Link>
               </li>
               <li className="nav-item">
