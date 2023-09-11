@@ -25,17 +25,17 @@ const AboutSection = () => {
             </p>
             <ul className="service-list pt-lg-2 mt-4">
               <li className="service-link">
-                <Link href="#url">
+                <Link href="/services/#features">
                   <span className="fa fa-check-circle"></span> Cocoa Beans
                 </Link>
               </li>
               <li className="service-link">
-                <Link href="#url">
+                <Link href="/services/#features">
                   <span className="fa fa-check-circle"></span> Sustainable Trade Services
                 </Link>
               </li>
               <li className="service-link">
-                <Link href="#url">
+                <Link href="/services/#features">
                   <span className="fa fa-check-circle"></span> Community Development Initiatives
                 </Link>
               </li>

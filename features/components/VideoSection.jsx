@@ -18,7 +18,7 @@ const VideoSection = () => {
                   for cocoa cultivation. Developing cocoa farming may lead to increased agricultural 
                   productivity, export earnings, job creation, and overall economic growth.
                 </p>
-                <Link href="contact.html" className="btn btn-style btn-outline-light mt-sm-5 mt-4">Discover More</Link>
+                <Link href="/impact/" className="btn btn-style btn-outline-light mt-sm-5 mt-4">Discover More</Link>
               </div>
             </div>
             <div className="col-lg-5 history-info mt-5 ps-lg-5 align-self">

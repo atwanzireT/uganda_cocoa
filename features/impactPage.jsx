@@ -87,7 +87,7 @@ export default function ImpactPage() {
                             Three-Year Cocoa Sourcing: Over three years, Ezra BR sourced approximately 1900MT of cocoa, resulting in $3 million in farmer incomes.
                         </li>
                         <li>
-                            Direct Sourcing: Direct sourcing from 2500 farmers, eliminating middlemen, is expected to increase farmer incomes by approximately $90,000 per year.
+                            Direct Sourcing: Direct sourcing from 5000 farmers, eliminating middlemen, is expected to increase farmer incomes by approximately $90,000 per year.
                         </li>
                         <li>
                             Access to Financial Services: Provided access to financial services and resources, including loans for school fees, with $3000 given in loan advances over the past two years.
