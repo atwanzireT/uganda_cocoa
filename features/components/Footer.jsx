@@ -5,7 +5,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer className="w3l-footer-29-main">
-      <div className="footer-29-w3l py-5">
+      <div className="footer-29-w3l py-2">
         <div className="container pt-md-5">
           <div className="w3l-footer-text-style">
             <div className="footer-list-cont d-sm-flex align-items-center justify-content-between mb-5">
@@ -16,7 +16,7 @@ const Footer = () => {
               </h2>
               <div className="main-social-footer-29">
                 <ul>
-                  <li className="w3follow mt-sm-0 mt-4">Follow Us: </li>
+                  <li className="w3follow mt-sm-0 mt-1">Follow Us: </li>
                   <li><Link href="#facebook" className="facebook"><i className="fab fa-facebook-f"></i></Link></li>
                   <li><Link href="#twitter" className="twitter"><i className="fab fa-twitter"></i></Link></li>
                   <li><Link href="#instagram" className="instagram"><i className="fab fa-instagram"></i></Link></li>
@@ -25,13 +25,13 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div className="row footer-top-29 pt-lg-5 pt-sm-4">
+          <div className="row footer-top-29 pt-lg-1 pt-sm-1">
             <div className="col-lg-3 col-sm-6">
               <div className="address-grid">
                 <h5>Bundibugyo <br /> Uganda.</h5>
               </div>
             </div>
-            <div className="col-lg-3 col-sm-6 mt-sm-0 mt-4 ps-lg-5">
+            <div className="col-lg-3 col-sm-6 mt-sm-0 mt-1 ps-lg-5">
               <div className="address-grid">
                 <h5>Phone</h5>
                 <h5 className="phone-number-text mt-2"><a href="tel:+256774783452">+256774783452</a></h5>
