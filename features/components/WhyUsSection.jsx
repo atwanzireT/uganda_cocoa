@@ -13,7 +13,7 @@ const WhyUsSection = () => {
           </div>
           <div className="col-lg-6 circles-right mt-lg-0 mt-5 align-self position-relative">
             <h6 className="title-subw3hny">Why Us</h6>
-            <h3 className="title-w3l mb-4">Growing Healthy Food</h3>
+            <h3 className="title-w3l mb-4">Growing Sustainable Economy</h3>
             <p className="mb-5">
               Working with Ezra BR Agency Limited offers a unique opportunity to engage in a sustainable and
               impactful cocoa trade partnership. With a strong presence in Uganda's Bundibugyo District,
