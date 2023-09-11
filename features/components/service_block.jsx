@@ -17,7 +17,7 @@ const ServicesBlock = () => {
             <p className="">Ezra BR Agency Limited provides a comprehensive range of services centered
               around cocoa production and trade. They directly source high-quality cocoa beans from over
               5,000 local farmers and farmer cooperatives in Uganda's Bundibugyo District. The company
-              is involved in the entire cocoa value chain, from procuring cocoa pods to meticulous
+              is involved in the entire cocoa value chain, from procuring cocoa beans to meticulous
               processing, including sorting, drying, and quality control. Their commitment extends
               to sustainable trade practices, ensuring farmers receive fair and stable prices.
               Additionally, Ezra BR Agency Limited actively engages in community development initiatives,

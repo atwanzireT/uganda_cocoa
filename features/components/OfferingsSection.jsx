@@ -27,7 +27,7 @@ const OfferingsSection = () => {
                 <p className="saas-para">
                   The company sources cocoa beans directly from local farmers, farmer groups,
                   and cooperatives in Bundibugyo, Uganda. This involves the procurement of cocoa
-                  pods from the farms and ensuring they meet quality standards.
+                  beans from the farms and ensuring they meet quality standards.
                 </p>
               </div>
             </div>
@@ -43,7 +43,7 @@ const OfferingsSection = () => {
                 </h5>
                 <p className="saas-para">
                   Ezra BR Agency Limited is involved in the initial stages of cocoa processing,
-                  including the harvesting of cocoa pods, opening the pods, and fermenting the cocoa beans.
+                  including the harvesting of cocoa beans, opening the beans, and fermenting the cocoa beans.
                   The company also has a trained team responsible for sorting, drying, and approving cocoa
                   beans, ensuring that only high-quality beans are selected for further processing.
                 </p>

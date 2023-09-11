@@ -18,7 +18,7 @@ export default function ImpactPage() {
                 <div className="container py-lg-5 py-md-3">
                     <div className="row align-items-center">
                         <div className="col-lg-6 pe-lg-5">
-                            <h6 className="title-subw3hny">Our Impact to the Society</h6>
+                            <h6 className="title-subw3hny">Their Impact to the Society</h6>
                             <h3 className="title-w3l">Ezra BR Agency's Impact Assessment Report</h3>
                             <p className="mt-md-4 mt-3">
                                 Ezra BR Agency's Impact Assessment Report outlines the company's significant
@@ -61,7 +61,7 @@ export default function ImpactPage() {
                     </div>
                 </div>
             </section>
-            <div className="mt-5 m-auto">
+            <div className="my-5 m-auto">
                 <div className="col-10 content4-right-info ps-lg-5">
                     <h5 className='text-muted my-3'>Environmental Initiatives</h5>
                     <ul class="list-group-flush ms-5">
