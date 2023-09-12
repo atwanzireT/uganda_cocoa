@@ -42,10 +42,13 @@ const OfferingsSection = () => {
                   <Link href="#service" className="title">Cocoa Processing and Quality Control</Link>
                 </h5>
                 <p className="saas-para">
-                  Ezra BR Agency Limited is involved in the initial stages of cocoa processing,
-                  including the harvesting of cocoa beans, opening the beans, and fermenting the cocoa beans.
-                  The company also has a trained team responsible for sorting, drying, and approving cocoa
-                  beans, ensuring that only high-quality beans are selected for further processing.
+                  EZRA BR AGENCY LIMITED is involved in the initial stages of cocoa processing through trainings.
+                  Farmers are trained to harvest only ripe cocoa beans every after 14 days. Farmers are farmer
+                  encouraged to split the cocoa pods using a blunt equipment in order not to damage the beans.
+                  Farmers are trained to ferment for 5-7 days in order to have a subtle aroma. Then beans are sun
+                  dried in an open space on a clean or raised surface until beans are to a maximum humidity of
+                  8.0%. The semi dry and dry beans are kept in clean dry bags, in a well ventilated store  and
+                  on a raised surface.
                 </p>
               </div>
             </div>
