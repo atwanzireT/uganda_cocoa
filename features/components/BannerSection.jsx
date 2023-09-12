@@ -21,7 +21,7 @@ const BannerSection = () => {
                 */}
                 <h6>Welcome to  Ezra BR Agency Limited</h6>
                 <h4>Cocoa Bean Export.</h4>
-                <Link href="/about/" className="btn btn-style btn-secondary mt-md-5 mt-4">
+                <Link href="/services/" className="btn btn-style btn-secondary mt-md-5 mt-4">
                   Read More
                 </Link>
               </div>
