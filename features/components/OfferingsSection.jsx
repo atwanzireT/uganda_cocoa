@@ -43,7 +43,7 @@ const OfferingsSection = () => {
                 </h5>
                 <p className="saas-para">
                   EZRA BR AGENCY LIMITED is involved in the initial stages of cocoa processing through trainings.
-                  Farmers are trained to harvest only ripe cocoa beans every after 14 days. Farmers are farmer
+                  Farmers are trained to harvest only ripe cocoa beans every after 14 days. Farmers are
                   encouraged to split the cocoa pods using a blunt equipment in order not to damage the beans.
                   Farmers are trained to ferment for 5-7 days in order to have a subtle aroma. Then beans are sun
                   dried in an open space on a clean or raised surface until beans are to a maximum humidity of
