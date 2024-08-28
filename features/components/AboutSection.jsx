@@ -9,13 +9,19 @@ import Link from 'next/link';
 
 const AboutSection = () => {
   return (
-    <section className="w3l-about-6 py-5" id="about">
+    <section className="w3l-about-6 pb-5" id="about">
       <div className="container py-lg-5 py-md-3">
         <div className="row align-items-center">
           <div className="col-lg-6 pe-lg-5">
             <h6 className="title-subw3hny">Our Info</h6>
-            <h3 className="title-w3l">Empowering Communities Through Sustainable Cocoa Production</h3>
-            <p className="mt-md-4 mt-3">
+            <h4 className="title-w4l">Our Mission</h4>
+            <p className="mt-md-4 mt-2">
+              We are committed to becoming a dominant aggregator and supplier of Quality conventional
+              Cocoa and vanilla beans  across the Region with an Identity, while caring of flavor, forest,
+              farmers and the Future (4F).
+            </p>
+            <h5 className="title-w5l mt-5">Empowering Communities Through Sustainable Cocoa Production</h5>
+            <p className="mt-md-4 mt-2">
               Our company's core mission is to revolutionize the cocoa value chain with a strong emphasis
               on sustainability and community empowerment. With over 15 years of experience in the cocoa
               industry, our team is dedicated to sourcing high-quality cocoa beans directly from more

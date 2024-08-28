@@ -18,7 +18,7 @@ const WhyUsSection = () => {
               Working with Ezra BR Agency Limited offers a unique opportunity to engage in a sustainable and
               impactful cocoa trade partnership. With a strong presence in Uganda's Bundibugyo District,
               Ezra BR Agency Limited is dedicated to sourcing high-quality cocoa beans directly from over
-              5,000 local farmers and farmer cooperatives, ensuring they receive fair prices. Their
+              5,000 local farmers and farmer cooperatives, ensuring they receive fair prices. Our
               commitment to sustainable practices, quality control, and community development sets them
               apart as a reliable and ethical partner. By collaborating with Ezra BR Agency Limited, you can be part
               of a venture that not only supports premium cocoa production but also contributes to the

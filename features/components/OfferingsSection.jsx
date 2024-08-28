@@ -26,8 +26,8 @@ const OfferingsSection = () => {
                 </h5>
                 <p className="saas-para">
                   The company sources cocoa beans directly from local farmers, farmer groups,
-                  and cooperatives in Bundibugyo, Uganda. This involves the procurement of cocoa
-                  beans from the farms and ensuring they meet quality standards.
+                  and cooperatives in Bundibugyo and Kasese Uganda. This involves the procurement
+                  of cocoa beans from the farms and ensuring they meet quality standards.
                 </p>
               </div>
             </div>

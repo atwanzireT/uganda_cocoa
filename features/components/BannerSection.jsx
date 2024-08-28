@@ -27,7 +27,7 @@ const BannerSection = () => {
               </div>
               <div className="w3lbanner-right">
                 <p>
-                  Ezra BR Agency Limited: Your Sustainable Source for Premium Ugandan Cocoa.
+                  Ezra BR Agency Limited: Better Farming Better Future.
                 </p>
               </div>
             </div>
