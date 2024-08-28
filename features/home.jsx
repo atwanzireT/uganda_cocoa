@@ -5,6 +5,7 @@ import OfferingsSection from '@/features/components/OfferingsSection'
 import VideoSection from '@/features/components/VideoSection'
 import WhyUsSection from '@/features/components/WhyUsSection'
 import Footer from '@/features/components/Footer'
+import ImageGallery from "./imageGallery"
 
 
 export default function Home(){
@@ -16,6 +17,7 @@ export default function Home(){
             <OfferingsSection/>
             <VideoSection/>
             <WhyUsSection/>
+            <ImageGallery/>
             <Footer/>
         </div>
     )
